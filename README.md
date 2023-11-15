@@ -1,1 +1,1 @@
-# Factor-analysis-with-deep-learning
+# Factor-analysis-with-PCA
